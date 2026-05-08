@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/circle.c:524:9:circle_configure_activations	2
+../X-CUBE-AI/App/circle.c:567:9:circle_configure_weights	2
+../X-CUBE-AI/App/circle.c:612:9:ai_circle_get_info	4
+../X-CUBE-AI/App/circle.c:659:9:ai_circle_get_report	4
+../X-CUBE-AI/App/circle.c:706:10:ai_circle_get_error	1
+../X-CUBE-AI/App/circle.c:713:10:ai_circle_create	1
+../X-CUBE-AI/App/circle.c:724:10:ai_circle_create_and_init	8
+../X-CUBE-AI/App/circle.c:759:12:ai_circle_inputs_get	2
+../X-CUBE-AI/App/circle.c:770:12:ai_circle_outputs_get	2
+../X-CUBE-AI/App/circle.c:781:11:ai_circle_destroy	1
+../X-CUBE-AI/App/circle.c:788:9:ai_circle_init	2
+../X-CUBE-AI/App/circle.c:805:8:ai_circle_run	1
+../X-CUBE-AI/App/circle.c:813:8:ai_circle_forward	1

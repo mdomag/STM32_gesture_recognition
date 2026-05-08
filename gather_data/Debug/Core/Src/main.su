@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:91:5:__io_putchar	16	static
+../Core/Src/main.c:102:5:main	88	static
+../Core/Src/main.c:154:6:SystemClock_Config	88	static
+../Core/Src/main.c:198:6:MPU6050_Init	32	static
+../Core/Src/main.c:242:6:MPU6050_Calibrate	40	static
+../Core/Src/main.c:284:6:MPU6050_Reset	32	static
+../Core/Src/main.c:290:6:MPU6050_ReadAcc	32	static
+../Core/Src/main.c:316:6:MPU6050_ReadGyro	32	static
+../Core/Src/main.c:341:5:ReadButton	16	static
+../Core/Src/main.c:352:6:Error_Handler	4	static,ignoring_inline_asm
